@@ -1,18 +1,7 @@
 {
   "name": "@notscripter/expo-template-blank",
-  "description": "blank template for expo",
-  "version": "1.0.0",
-  "author": "notscripter",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/not-scripter/expo-template-blank.git"
-  },
-  "keywords": [],
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/not-scripter/expo-template-blank/issues"
-  },
-  "homepage": "https://github.com/not-scripter/expo-template-blank",
+  "description": "blank template for expo with src directory and nativewind",
+  "version": "1.1.2",
   "main": "expo/AppEntry.js",
   "scripts": {
     "start": "expo start",
@@ -32,6 +21,5 @@
     "@types/react": "~18.2.45",
     "tailwindcss": "^3.3.2",
     "typescript": "^5.1.3"
-  },
-  "private": true
+  }
 }
