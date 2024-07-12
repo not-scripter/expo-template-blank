@@ -1,7 +1,7 @@
 {
   "name": "@notscripter/expo-template-blank",
   "description": "blank template for expo with src directory and nativewind",
-  "version": "1.1.7",
+  "version": "1.1.9",
   "main": "expo/AppEntry.js",
   "scripts": {
     "start": "expo start",
